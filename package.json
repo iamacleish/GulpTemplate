@@ -1,7 +1,7 @@
 {
   "name": "ian-macleish",
   "version": "1.0.0",
-  "description": "Portfolio site.",
+  "description": "BFTR site.",
   "main": "js/index.js",
   "scripts": {
     "test": "test",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamacleish/PersonalSite.git"
+    "url": "git+https://github.com/iamacleish/BattleForTheRingSite.git"
   },
   "author": "ian-macleish",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamacleish/PersonalSite/issues"
+    "url": "https://github.com/iamacleish/BattleForTheRingSite/issues"
   },
-  "homepage": "https://github.com/iamacleish/PersonalSite#readme",
+  "homepage": "https://github.com/iamacleish/BattleForTheRingSite#readme",
   "devDependencies": {
     "browser-sync": "^2.13.0",
     "gulp": "^3.9.1",
